@@ -1,22 +1,21 @@
-#red {
-    color:red;
+*{
+    background-color: black;
 }
-#blue {
-    color:blue;
+p{
+    text-align: center;
 }
-#orange {
-    color:orange;
+h1{
+    text-transform: uppercase;
+    text-align: center;
 }
-#green {
-    color:green;
+div{
+    font-family: 'Libre Baskerville', serif;
+    color:white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
 }
-#yellow {
-    color:yellow;
-}
-.color-title {
-    font-weight: normal;
-}
-img {
-    height: 200px;
-    width: 200px;
+img{
+    border: 5px solid white;
+    width: 100%;
 }
